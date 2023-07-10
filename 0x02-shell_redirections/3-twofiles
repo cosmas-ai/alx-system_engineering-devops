@@ -1,2 +1,2 @@
 #!/bin/nash
-cat  /etc/passwd  /etc/hosts
+cat /etc/passwd /etc/hosts
